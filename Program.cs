@@ -52,4 +52,4 @@ Console.Write("Enter first m parameter: ");
 numberM = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter first n parameter: ");
 numberN = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine($"Akkerman function f({numberM}, {numberN} = {AkkermanFunction(numberM, numberN)}");
+Console.WriteLine($"Akkerman function f({numberM}, {numberN}) = {AkkermanFunction(numberM, numberN)}");
